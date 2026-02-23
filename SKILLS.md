@@ -1,6 +1,12 @@
 ---
 name: minions-oss-projects
-description: Project definitions, repos, version history, and health status
+id: OC-0138
+version: 1.0.0
+description: "Project definitions, repos, version history, and health status"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-oss-projects — Agent Skills
