@@ -1,6 +1,6 @@
 {
   "name": "@minions-oss-projects/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Project definitions, repos, version history, and health status",
   "type": "module",
   "main": "./dist/index.js",
