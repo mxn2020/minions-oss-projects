@@ -1,0 +1,8 @@
+name: "@minions-oss-projects/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-oss-projects-workspace
+description: "CLI for minions-oss-projects — Project definitions, repos, version history, and health status"
+priority: high
+deploy_url: null
+tags: null

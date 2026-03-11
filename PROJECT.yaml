@@ -1,0 +1,15 @@
+name: minions-oss-projects-workspace
+project_scope: main
+project_type: monorepo
+description: "Project definitions, repos, version history, and health status"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-oss-projects"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, oss, projects]
+notes: null
+id: df5e8337-9107-4235-82bf-81d82e12d2b7

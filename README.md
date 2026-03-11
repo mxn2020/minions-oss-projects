@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/minions-oss-projects-workspace/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # minions-oss-projects
 
 **Project definitions, repos, version history, and health status**
